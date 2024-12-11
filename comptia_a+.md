@@ -1,0 +1,959 @@
+# CompTIA A+ Core 1 Exam Study Guide / Notes
+
+## 1.1 Laptop Hardware
+	- Challenging fix
+	- Some easier to fix than others
+	- Repair process differs between manufacturers
+	- Batteries
+		- May be easy to replace, or my require tear-down
+		- Lithium-Ion (Li-Ion) & Lithium-Ion Polymer (Li-Po)
+			- No "memory effect"
+				- Dose not have to be fully discharged between charges
+			- Charging diminishes capacity
+			- Laptops with different form factors usually require different batteries
+	- Keyboard
+		- Most use component
+		- Can be easy to replace
+		- USB keyboard are cool
+		- Keyboard layout may be different depending on laptop form factor
+			- Some may have function keys. Others may not.
+		- Keycaps may need to be replaced
+			- Keycaps can be delicate
+			- Also research manufacturer's instructions
+	- Memory (RAM)
+		- Small Outline Dual In-line Memory Module (SO-DIMM)
+		- Common in laptops and other mobile devices
+		- Can be easy to install and replace
+			- This isn't always the case. Sometimes memory is soldered in place and cannot be replaced
+	- Storage
+		- Magnetic Disk
+			- Spinning drive platters w/ ~2.5" form factors
+		- Solid-State Drive (SSD)
+			- All memory, no spinning parts
+			- Silent, fast, less latency
+			- Also comes in 2.5" form factors
+		- M.2 (M.2 SSD)
+			- Smaller form factor
+			- No SATA or power cables
+			- Easy to install and replace
+		- Replacing Laptop Storage
+			- All internal
+			- Often behind covers on back. Sometimes the whole plastic casing of the laptop must be disassembled
+			- Can be modular
+			- M.2 Drives are easy to install. Sometimes they can be just like memory.
+			- HHD to SSD
+				- Impressive upgrade
+				- Install OS on new SSD
+				- Alternatively, clone HHD content to SSD
+					- Imaging software needed
+						- Such software can be used to duplicate storage content many times
+			- Drive to Drive Imaging
+				- Copy image directly to SSD from HHD
+	- 802.11 Wireless & Bluetooth
+		- Mini PCI and Mini PCI Express allow adding wireless hardware
+		- 802.11
+			- Local Area Network (LAN)
+			- Internet stuff
+		- Bluetooth
+			- Personal Area Network (PAN)
+			- Short range
+			- Used for peripherals
+	- Biometrics
+		- Authentication via something you are
+		- Finger print / face recognition
+		- OS needs to support it and the hardware necessary must be present
+		- Relatively secure
+	- Near Field Communication (NFC)
+		- Very short distance networking
+			- 4 cm or less
+			- Used for data transfer or authentication
+		- Common in phones and smart watches
+
+## 1.2 Laptop Displays
+	- Portable LCD
+		- Liquid Crystal Display (LCD)
+		- Advantages
+			- Lightweight
+			- Low power
+			- inexpensive
+		- Disadvantages
+			- Black levels are bad
+			- Needs a backlight
+				- Florescent or LED
+				- Backlights are not easy to replace
+	- LCD Technologies
+		- Twisted Nematic (TN)
+			- Original LCD
+			- Fast response times
+			- Poor viewing angles
+		- In Plane Switching (IPS)
+			- Excellent color
+			- More expensive
+		- Vertical Alignment (VA)
+			- Compromise between TN and IPS
+			- Good color
+			- Slow response time
+	- Organic Light Emitting Diode (OLED)
+		- Organic component emits light
+		- Thinner, Lighter, no glass
+		- Very light
+		- No backlight
+		- Used in tablets, phones, other "smart" devices
+	- WiFi Antennas
+		- Often behind laptop displays
+			- Be aware of this while replacing a display!
+	- Webcams
+		- Video capture
+		- Audio capture
+	- LDC Backlights (Florescent vs LED)
+		- Cold Cathode Florescent Lamp (CCFL)
+			- Needs more power
+			- Thick displays
+			- Common in older laptops
+		- LED-Backlit LCD displays
+			- Backlight is LEDs
+			- LEDs around edge of screen
+			- Common in newer laptops
+		- Inverters
+			- Some backlights need inverters to properly power them
+			- Turns Direct Current (DC) into Alternating Current (AC)
+			- Common in CCFL
+		- Backlights can be trouble-shooted using a flashlight
+	- Digitizer
+		- Makes touch-screen / styles work
+	- Touch-screen
+		- A digitizer that responds to touch
+
+## 1.3 Connecting Mobile Devices
+	- Wired & Wireless
+	- Used for synchronization, connectivity, backup, and authentication
+	- Universal Serial Bus (USB)
+		- ""High Speed""
+		- Used for charging or data transfer
+	- Micro-USB
+		- Smaller USB connector
+	- Mini-USB
+		- Larger than micro-USB
+		- Used on older devices
+	- USB-C
+		- 24-pin double-sided USB connector
+		- Uses USB 2.0, 3.0, 3.1, or 4
+		- Can be used for display-port (HDMI, Thunderbolt)
+	- Lightning
+		- Apple's 8-pin proprietary connector
+		- Focus on apple devices
+		- High power output
+		- Can be inserted both ways
+	- Serial Interfaces
+		- DB-9 / DE-9
+			- RS-232 signals
+			- status-quo before USB
+			- Sometimes used to configure routers, switches, and other networking devices
+	- Near Field Communication (NFC)
+		- Small amount of data over short distance
+		- Wireless
+		- Built into smart phones
+		- Some ID card and Payment cards use this
+		- Supports encryption
+	- Bluetooth
+		- High speed, short distance
+		- Personal Area Network (PAN)
+		- Used for peripherals
+	- HotSpot
+		- Wireless router built into phone
+		- 802.11
+
+### 1.3.2 Mobile Device Accessories
+	- Touch Pens
+		- Aka stylus
+		- More precise
+	- Active Stylus
+		- Aka Digital stylus
+		- More advanced
+		- Communicate directly to device
+			- Pressure sensitive
+			- Programmable buttons
+		- Must be compatible with device
+	- Drawing Pad
+		- Active Stylus + external digitizer
+		- Third party device w/ support across systems
+	- Track Pad
+		- Laptops often have this instead of a mouse
+		- Useful in tight spaces
+		- External Track Pads exist
+			- May have own battery
+			- May be wireless
+			- Customisable gesture controls
+		- Sometimes laptops let you disable track pad
+	- Headset
+		- Earphones and Microphone
+		- Wired
+			- USB
+			- 3.5mm Tip-ring-ring-sleeve (TRRS)
+			- Analog Audio Jack
+			- Apple Lightning port
+		- Wireless via Bluetooth
+	- Speakers
+		- Can be battery powered & Wireless via Bluetooth
+		- Stereo & better sound
+	- Webcam / Camera
+		- Internal on most mobile devices
+	- Docking station
+		- Set up laptop on desk when not traveling
+		- Add functionality
+		- Avoid fighting with cables
+	- Port Replicator
+		- Similar to docking station
+		- Usually wont have expansion cards
+		- Often use USB
+		- Add more ports
+
+## 1.4 Cellular Standards
+	- Land is split into "cells"
+	- Antennas are used to maintain connectivity while traveling
+	- 2G
+		- Global Systems For Mobile (GSM) communications
+			- 90% of network back in the day
+			- EV standard
+			- World Wide coverage
+			- AT&T vs T-Mobile
+			- Used Subscriber Identity Module (SIM) cards
+			- Multiplexing
+		- Code Division Multiple Access (CDMA)
+			- Everyone communicates at once
+			- Each call gets a code
+			- Codes used to filter out calls not relevant to the caller
+			- Verizon vs Sprint
+			- USA only
+		- Poor data support
+			- Circuit-Switches
+	- GSM
+	- 3G
+		- Introduced in 1998
+		- Faster than 2G
+			- Megabits per second
+		-Bandwidth Improvement
+			- GPS
+			- Mobile TV
+			- Video Streaming
+	- 4G & Long Term Evolution (LTE)
+		- Converged GSM & CDMA
+		- Based on GSM & Enhanced data rates for GSM Evolution (EDGE)
+		- Higher speeds (150 Mbit/s)
+		- LTE-A (Advanced)
+			- Speeds up to 300 Mbit/s
+	- 5G
+		- Introduced in 2020
+		- Significant performance improvements
+		- 10 Gigabits per second
+		- Very good for IoT
+			- less bandwidth constraint
+			- large data transfer
+			- faster
+			- additional cloud processing
+		- Updates
+			-Preferred Roaming List (PRL)
+				- Helps phone pick right tower
+				- CDMA networks
+				- works over the air (OTA)
+
+### 1.4.2 Mobile Device Connectivity
+	- Bluetooth paring
+		- Built in
+		- May use Personal Identifying number
+		- Check with manufacturer for instructions
+	- Global Positioning System (GPS)
+		- Created by Department of Defense (DoD)
+		- Over 30 satellites in orbit
+		- Precise navigation
+		- Device needs to communicate with at least 4 satellites
+		- Location is determined based on timing differences
+		- Can calculate longitude, latitude, and altitude
+		- WiFi and call tower info can also be used to determine location
+	- Mobile Device Management (MDM)
+		- Software for centralized management of mobile devices.
+		- Admin can set policies on apps, data, camera, etc
+		- Control can be over whole device or just a "partition"
+		- Manage access control
+		- MDM Configurations
+			- Things like email can be configured with the MDM
+			- Can be used to force Two-factor authentication
+			- Can allow and blacklist apps
+
+### 1.4.3 Mobile Device Configurations
+	- Some settings may be preconfigured
+		- Telephone / Texting
+	- Others need to be set manually
+		- Email
+			- Every organization handles email differently
+		- Data / Cloud Sync
+	- Microsoft 365
+		- Outlook, exchange, hotmail
+			- These are all microsoft email solutions
+		- Requires authentication
+		- Can be used to sync mail, contacts. calendars, reminders, notes
+		- Compare to google workspace
+	- iCloud
+		- Integration into apple products
+		- Use apple iCloud account
+		- Extensive sync options
+		- Specific data types
+		- Custom cloud upload / download network usage
+			- Cellular w/ 802.11
+			- Set speed limits
+
+## 2.1 Introduction to Internet Protocol (IP)
+<pre>
+        _______________ ________________ ________________                 
+       |               |                |                |                
+Client |Ethernet Header|Ethernet Payload|Ethernet Trailer| Server         
+       |_______________|________________|________________|                
+                                                                          
+        _______________ _________ __________ ________________             
+       |               |         |          |                |            
+Client |Ethernet Header|IP Header|IP Payload|Ethernet Trailer| Server     
+       |_______________|_________|__________|________________|            
+                                                                          
+        _______________ _____________ ___________ ________________        
+       |               |  |          |           |                |       
+Client |Ethernet Header|IP|TCP Header|TCP Payload|Ethernet Trailer| Server
+       |_______________|__|__________|___________|________________|       
+                                                                          
+        _______________ _________________________ ________________        
+       |               |  |   |                  |                |       
+Client |Ethernet Header|IP|TCP|HTTP,POP3,SSH Data|Ethernet Trailer| Server
+       |_______________|__|___|__________________|________________|       
+</pre>
+
+	- TCP & UDP
+		- Encapsulated in IP packet
+		- OSI layer 4 (Transport)
+		- Multiplexing
+			- Use many apps at once
+		- Transmission Contol Protocol (TCP)
+			- Connection oriented
+				- A connection is opened and closed
+			- Reliable delivary
+				- Error recovery
+				- Fix out of order packets
+				- Retransmissions
+				- Communication is back and forth
+			- Flow control
+				- Speed limits can be set
+			- HTTPS, SSH
+		- User Datagram Protocol (UDP)
+			- Connectionless
+			- Unreliable delivary
+				- No error recovery
+				- No data sent back to sender
+			- No flow control
+				- Amount of data sent is controled by sender
+			- Used for Real time communication
+			- DHCP, TFTP
+	- Ports
+		- IPv4 Sockets
+			- Bother server and client get an IP address and application port number
+		- Non-ephemeral ports
+			- Aka permanent port numbers
+			- 0 to 1,023
+			- Usually server side
+		- Ephemeral Ports
+			- Temporary port numbers
+			- 1,024 to 65,535
+			- Determined in real-time by client
+	- Port numbers
+		- TCP & UDP can use any port in range 0 to 65,535
+		- Changing a port number is not nessicarily secure
+		- TCP & UDP have different port numbers
+			- TCP 80 and UDP 80 are not the same port.
+
+### 2.1.2 Common Network Ports
+	- Firewalls also use port numbers
+	- File Transfer Protocol (FTP)
+		- tcp/20
+			- Active mode data
+		- Transfer files between systems
+		- Authenticate via username and password
+			- Sometimes anonymous accounts exist
+		- Fully featured functionality
+			- List, add, delete, etc files
+	- Secure Shell (SSH)
+		- tcp/22
+		- Functionally the same as telnet
+		- Data is encrypted
+	- Telnet
+		- tcp/23
+		- Login to remote devices via console
+		- No encryption. Not secure
+	- Simple Mail Transfer Protocol (SMTP)
+		- tcp/25
+		- Email server to email server
+		- Clients use this to send email
+		- Not used for mail retrieval
+	- Domain Name System (DNS)
+		- udp/53
+		- Converts domain names to ip addresses
+	- Dynamic Host Configuration Protocol (DHCP)
+		- udp/67, udp/68
+		- Automated configuration of nodes in a network
+			- IP addresses, subnet masks, etc
+		- IP addresses assigned in real-time from a pool
+			- Each address has a lease and must be renewed after a set timeframe
+		- DHCP reservations
+			- IP addresses can be assigned by mac address
+	- Hyper Text Transfer Protocol (HTTP) / Hyper Text Transfer Protocol Secure (HTTPS)
+		- Used primarily by web browsers. Also used for misc other things
+		- HTTP
+			- tcp/80
+			- No encryption
+		- HTTPS
+			- tcp/443
+			- encryption
+	- POP3, IMAP
+		- Retrieve email messages
+		- Post office Protocol v3 (POP3)
+			- tcp/110
+			- Basic Mail transfer
+		- Internet Message Access Protocol (IMAP4)
+			- tcp/143
+			- Manage email inbox from many clients
+	- Server Message Block (SMB)
+		- Often used by Windows
+		- File sharing, printer sharing
+		- Aka Common internet file system (IFS)
+		- Sometimes uses NetBIOS
+			- udp/137
+				- nbname
+			- tcp/139
+				- nbsession
+		- Modern systems don't use netBIOS
+			- tcp/445
+	- Simple Network Management Protocol
+		- Queries
+			- tcp/161
+		- Traps
+			- udp/162
+		- Gathers network stats
+		- V1
+			- Structured tables
+			- No encryption
+		- V2
+			- More data types
+			- Bulk Transfers
+			- No encryption
+		- V3
+			- Integrity checks
+			- Authentication
+			- Encryption
+	- Lightweight Directory Access Protocol (LDAP)
+		- tcp/389
+		- Store and retrieve info in a network directory
+		- Used in Microsoft Active Directory
+	Remote Desktop Protocol (RDP)
+		- tcp/3389
+		- Access gui remotely
+		- common on Windows
+		- Allow access to whole system or can be softlocked to just one application
+		- Server runs on Windows. Clients can be installed on other platforms
+
+## 2.2 Network Devices
+	- Router
+		- Routs traffic between IP subnets
+		- Aka layer 3 switch
+		- Can also be used to connect different types of networks together
+			- LAN, WAN, copper, fiber
+	- Switch
+		- Often forwards traffic based on MAC address
+		- Has Application Specific Integrated Circuits (ASIC)
+		- Many ports and features
+			- Power over Ethernet (PoE)
+			- Core of an enterprise network
+		- Multilayer switch
+			- Includes some routing functionality
+	- Unmanaged switch
+		- Plug & play
+		- Few configuration options
+		- No VLANs
+		- No SNMP support
+		- Less expensive
+	- Managed switch
+		- VLAN support
+		- Traffic Prioritization
+		- Spanning Tree Protocol (STP) support
+			- Prevents redundant paths in network
+		- Port mirroring
+		- SNMP Support
+	- Access Point
+		- Not a wireless router
+		- Aka Bridge
+		- Extends wired network onto wireless network
+		- Forwarding based on MAC address
+	- Patch Panel
+		- Cables from computer in office are ran to patch panel in network closet
+		- Punch-down blocks and RJ-45 connectors
+	- Firewall
+		- OSI layer 4 device
+		- Filters traffic by port number and IP address
+		- Modern firewalls understand layer 7 (Application Layer)
+			- Also support encrypted tunneling
+			- Proxy Functionality
+			- Can also act as router (layer 3)
+	- Power over Ethernet (PoE)
+		- Power provided via Ethernet cable
+		- Can also transfer data
+		- Can power phones, security cameras, wireless access points
+		- Power supply is sometimes a switch
+			- Endspans
+		- Power supply not a switch
+			- Midspan Aka PoE Injector
+		- PoE Switch
+			- Not all switches support PoE
+		- IEEE 802.3af-2003a
+			- Original PoE Spec
+			- Part of modern 802.3 spec
+			- 15 watts DC, 350 mA max current
+		- IEEE 802.3at-2009 (PoE+)
+			- 25.5 Watts DC Power.
+			- 600 mA max current
+		- IEEE 802.3bt-2018 (PoE++)
+			- 51 watt (Type 3)
+				- 600 mA max current
+			- 71.3 Watt (Type 4)
+				- 960 mA max current
+			- Support for 10 gigabit based Ethernet
+	- Hub
+		- Multi-port repeater
+		- Traffic is sent out all interfaces
+		- Half-duplex
+		- Less efficient
+		- 10 Megabits / 100 megabit speeds
+	- Cable Modem
+		- Broadband
+		- Different traffic types over multiple frequencies
+		- Data over cable service interface specification (DOCSIS)
+		- High Speed
+			- Up to 1 gigabit pre second
+	- DSL Modem
+		- ADSL (Asymmetric Digital subscriber line)
+			- telephone lines
+			- Download is faster then upload
+			- 10,000 foot from central office (co) limit
+			- Speeds are faster the closer you are to co
+	- Optic Network Terminal (ONT)
+		- Fiber optic cable
+		- Connects ISP network to demarcation point (dmark)
+			- Dmark is terminal box on outside of building
+			- Dmark marks end of responsibility between isp and network admin
+	- Network Interface Card (NIC)
+		- Every networking device has a NIC
+		- Specific for network type
+			- LAN, WAN, WiFi, etc
+		- Sometimes integrated into motherboard
+		- Sometimes attached to motherboard via expansion card
+
+### 2.2.2 Software Defined Networking (SDN)
+	- Virtualized network devices that work in cloud
+	- Split networking devices functions into separate logical units
+	- Control Layer / Control Plane
+		- Routing tables, session tables, NAT tables
+		- Dynamic routing protocol updates
+	- Infrastructure layer / date plane
+		- Process network frames and packets
+		- Forwarding, tunking, encrypting, NAT
+	- Application layer / management plane
+		- config and manage devices
+		- SSH, browser, APIs
+
+## 2.3 Wireless Network Standards
+	- Wireless Networking (802.11)
+		- Managed by IEEE LAN/MAN standards committee (IEEE 802)
+	- WiFi trademark 
+		- Wi-Fi alliance handles interoperability testing
+	- 802.11a
+		- Oct 1999
+		- 5 GHz range
+			- Can use other frequencies if permitted
+		- 54 Megabits per second
+		- Not very good range
+		- Outdated
+	- 802.11b
+		- Oct 1999
+		- 2.4 GHz range
+		- 11 Mbits/s
+		- Better range than 802.11a
+		- Prone to frequency conflict
+		- Outdated
+	- 802.11g
+		- Upgrade for 802.11b
+		- Jun 2003
+		- 2.4 GHz range
+		- 54 Mbits/s
+		- Compatible with 802.11b
+		- Frequency conflict
+		- outdated
+	- 802.11n (WiFi 4)
+		- Update to all old standards
+		- Oct 2009
+		- both 5GHz and / or 2.4 GHz
+		- 600 Mbits/sec
+		- Multiple-input multiple-output (MIMO)
+	- 802.11ac (WiFi 5)
+		- Jan 2014
+		- 5GHz
+			- Up to 160mh channel bandwidth
+		- Channel bonding (more bandwidth)
+		- Denser signaling modulation (Faster data transfer)
+		- 8 MV-MIMO downlink streams
+		- Almost 7 gigabits per sec
+	- 802.11ax (WiFi 6)
+		- Feb 2021
+		- 5GHz and / or 2.4GHz
+		- 1,201 Mbits/sec
+		- 8 bi-directional MV-MIMO streams
+		- Orthogonal frequency-division multiple access (OFDMA)
+			- Similar to cell
+			- Improved high-density installations
+
+| Spec | Frequency | Max MIMO Streams | Max Throughput Per Stream | Total Max Throughput |
+|------|-----------|------------------|---------------------------|----------------------|
+| 802.11a | 5GHz | N/A | 54 Mbit/s | 54 Mbit/s |
+| 802.11b | 2.4GHz | N/A | 11 Mbit/s | 11 Mbit/s |
+| 802.11g | 2.4GHz | N/A | 54 Mbit/s | 54 Mbit/s |
+| 802.11n | 5GHz / 2.4GHz | 4x MIMO | 150 Mbit/s | 600 Mbit/s |
+| 802.11ac | 5GHz | 8x DC MV-MIMO | 867 Mbit/s | 6.9 Gbit/s |
+| 802.11ax | 5GHz / 2.4GHz | 8x DC MV-MIMO | 1,201 Mbit/s | 9.6 Gbit/s |
+
+### 2.3.1 Wireless Network Technologies
+	- 802.11 Technolgoies
+	- Frequency
+		- 2.4 GHz or 5 GHz
+	- Channels
+		- Groups of frequencues, numbered by IEEE
+		- Non overlapping channels is best
+	- Requlations
+		- Most countries have regualtions
+		- spectrum use, power output, interference requirements, etc
+	- Band Selection & Bandwidth
+		- 2.4 GHz spectrum
+			- IEEE Channel 1,6, or 11
+			- 20 MHz bandwidth
+		- 5 GHz spectrum
+			- IEE channels 36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,144,149,153,157,161,165,169,173,177
+			- 20 MHz, 40 MHz, 80 MHz, or 160 MHz bandwidths
+	- Bluetooth
+		- Removes wires from preiferal devices
+		- Uses 2.4 GHz range
+			- Unlicesed ISM (industrial, scientific and mediacal)
+		- Short-range
+			- Prersonal area network (pam)
+			- Most consumer deives operate at 10 meter distance
+			- Industral may communicate up to 100 meters (less common)
+
+## 2.4 Network Services
+	- DNS (Domain name system)
+		- Convert names to IP addresses and vice versa
+		- Distrubuted naming system
+			- the load is balanced across many servers
+		- Managed by it department or isp
+		- Critical resource
+	- DHCP (Dyncmic host configuration protocol)
+		- Automatic ip address configureation
+		- Very common
+			- On most home networks
+		- Enterprise DHCP will be redundant
+			- Will run on central servers
+			- Will probobly have more than one server for dhcp
+	- File Server
+		- Cenrtalized stroage
+		- File share
+		- Standards systems of file managment
+			- SMB (Server message Block)
+				- Common on windows
+			- AFP (Apple filing protocol)
+				- Common on apple devices
+			- User interact with a front end that obscures the network protocol
+	- Print Server
+		- Connect printer to network
+		- provied printing services for all devices
+		- May be computer connected to printer
+		- Could also be built into printer
+		- Uses standard protocols
+			- SMB
+			- IPP (Internet printing protocol)
+			- LPD (Line Printer Daemon)
+	- Mail server
+		- Send and recviev email
+		- Manged by local it team or isp
+		- complex and unique set of requirements
+		- very important
+			- Often will have 24/7 support
+	- Syslog
+		- Standard for message logging
+		- Logs from different services are consolidated on a centeralized loaction
+		- Usally a central logging reciver
+			- Device called SIEM (Security information and event manager)
+				- Needs lots of disk space
+
+	- Web Server
+		- Respond to web browser requests
+		- http and https
+		- servers html, etc
+		- Pages may be stored on server (static)
+		- Or pages may be built dynamically in real-time
+	- Authentication Server
+		- Login authentication to resources
+			- Centralized management
+		- Exclusive to enterprise networks
+			- Uncommon on home networks
+		- Usually uses redundent servers
+			- Very critical service
+	- Spam
+		- Unsolicited messages put into spam folder
+		- Various content
+			- advertising
+			- phishing
+		- Siginficant technology issues
+			- Security concerns
+			- resource utilization
+			- storage costs
+			- managing spam
+		- Spam gateway
+			- Stops spam at gateway
+			- Can be cloud based
+			- Scans mail and catorgizes it
+	- All in one security appliance
+		- Net generation filrewill
+		- Aka UTM (Unified Threat Management) or Web Security Gateway
+		- URL filter/ content inspection
+		- Malware inspaction
+		- spam filter
+		- CSU / DSU
+			- Allows users to connect to wide arrea network
+		- Router / switch
+		- Firewall
+		- Intrusion Detection system (IDS) / Intrusion Prevention System (IPS)
+		- Bandwidth shaper
+		- VPN endpoint
+	- Load balancer
+		- Distrubutes workload
+		- Multiple servers
+		- Fault tolerance
+			- Server outages have no effect
+			- Very fast convergence
+		- Configureable load
+		- TCP offload
+		- SSL offload
+		- chach data for speed
+		- prioritization
+	- Proxy servers
+		- Intermediate server
+			- Client talks to proxy
+			- proxy preforms request
+			- proxy gets results from server and provides the user with said result
+			- Can asses communications
+		- Access control
+		- ulr filtering
+		- content scanning
+	- SCADA (Supervisory Control and Data Acquisition System) / ICS (industrial control systems)
+		- Control and manage industrual machines
+		- Often semented away from rest of network
+			- Need to be kept secure
+	- Legacy systems
+		- "really old"
+		- Can also be very important
+		- may run on older software and hardware
+	- Embeded Systems
+		- Purpose-built device
+		- No direct access to operating system
+		- Common for alarm systems, door security, time card, etc
+	- Iot (Internet of Things)
+		- Appliances
+			- Refrigerators
+		- Smart devices
+		- Thermostat
+		- Access
+			- Smart doorbell
+		- May also be segmented
+			- Security is very important
+
+## 2.5 IPv4 & IPv6
+	- IPv4
+		- Primary protocol we use for everything
+		- Four numbers (bytes) all seperated with '.'
+			- Each segment may be called "8 bits", "1 byte", or "1 octet"
+				- Four together makes 32 bits aka 4 bytes
+			- Max value of 255
+		- OSI layer 3 address
+		- Networking
+			- Every device on a network gets a unique IP adress
+			- Subnet mask (255.255.255.0)
+				- Used to determine what subnet device is on
+				- Not usually trasmitted across network
+			- Default gateway
+				- Router that allows you to communicate outside of local subnet
+				- Must be on local subnet
+			
+	- IPv6
+		- Now a part of all major operating systems
+		- Backbone of internet infastructure
+		- 128-bit address
+			- 128 bits = 16 bytes
+		- Stops us from running out of addresses
+		- Adress broken into 8 groups sepearated by ':'
+			- each group is "16 bits" or "2 bytes" or "2 octets"
+		- Longer IP addresses are harder to remember. DNS comes in handy
+		- First 64 bits is generally network prefix
+		- Last 64 bits is generally network address
+	- DNS
+		- Names are eaiser to remeber than IP addresses.
+		- Routers only know IP addresses
+		- This can translate IPs to Domain names
+		- Configure two DNS servers in up configuration
+
+### 2.5.1 Assinging IP Addresses
+	- IPv4 address configureation used to be manual
+	- BOOTP
+		- bootstrap protocol
+		- October 1993
+		- Early means of automaticly managing a network
+		- Didn't configure anything
+		- Couln't track when a device left network
+	- DHCP
+		- Initally released in 1997, updates overtime
+		- Provides automatic address / IP configurations for almost all devices
+		- Process
+			- DORA
+				- A four-step process
+				1. D: Discover
+					- Find a DHCP server
+					- udp/67 broacast from client to dhcp servers
+						- Must use broadcast becasue client has not been given an IP address or been configured
+				2. O: Offer
+					- Get an offer
+					- udp/68 Broadcast from server to client
+				3. R: Request
+					- Pick an offer
+					- Request is made by client to server via udb/67 broadcast
+				4. A: Acknowlege
+					- DHCP server confirmation
+					- upd/68 broadcast from server to client
+		- IP address are stored in a pool
+			- You may want some devices to have a static ip
+				- Disabling DHCP and manually setting IP address can allow this.
+				- DHCP alternativly supporst reservations
+					- This is done via MAC addresses
+	- APIPA (Automatic Private IP Addressing) / Link-local Address
+		- When DHCP isn't found
+		- Only works in local network
+		- EITF has reserver 169.254.0.0 - 169.254.255.255
+		- Assinged automatcily by local device to local device
+			- Uses ARP to see if IP is free
+
+## 2.6 DNS Configuration
+	- Domain name system
+	- Translate human-readable names into computer-readable IP addresses
+	- Hierarchical
+	- Distrubuted database
+	- many dns servers
+		- 13 root server cluesters (over 1,000 acutal servers)
+	- many generic top-level domains (gTLDs)
+		- .com, .org, .net, etc
+	- Over 275 country code top-level domians (ccTLDS)
+		- .us, .ca, .uk, etc
+	- DNS records
+		- Resource Records (RR)
+			- The database of records or dmain name services
+			- Over 30 types
+				- IP addresses, certificates, host alias names, etc
+		- Address records (A) (AAAA)
+			- Defines the IP address of a host
+			- A records are for IPv4
+			- AAAA records are for IPv6
+			- TTL (Time to live)
+				- Info from dns server will be stored for this long
+		- (MX) Mail Exchanger Record
+			- Determines the host name for the mail server
+		- Text records (txt)
+			- Human readable text information
+			- Useful public information
+			- Can be used for verification purposes
+			- Can be used for email security
+		- Sender policy framework (SPF)
+			- spf protocol
+			- list of servers that are authorized to send emails for a domain
+			- Prevent mail spoofing
+			- Mail servers preform a check to see if mail really came from host it clames to be from
+		- Domain Keys Identified Mail (DKIM)
+			- Digitally sing a domain's outgoing mail
+				- Validated by mail server
+				- Public key is in the DKIM TXT record
+		- DMARC
+			- Domain-based message authentication reporting and conformance
+			- Prevent unauthorized email use
+			- externsion of spf and dkim
+			- decied what external email servers should do with emails that don't validate through spf or dkim
+	- DNS configuration
+		- Text config file
+		- Sometimes there are web based front ends
+
+### 2.6.1 DHCP Configuration
+	- IP Address range
+	- Subnet Masks
+	- Lease durations
+	- DNS server
+	- Default gateway
+	- VOIP Settings
+	- DHCP Pool
+		- Each subnet has its own scope
+		- Scope is generally a single contiguous pool of IP Adresses
+			- Execptions can be made on server
+	- SOHO DHCP server
+		- DHCP server may be embeded on a router
+	- DHCP adress assignment
+		- Dynamic assignments
+			- addresses are picked from large pool
+			- Addresses are reclaimed after lease period
+		- Automatic Assignment
+			- DHCP server keeps a list of past assingments
+			- Devices are always given the same IP address
+	- DHC Adress reservation
+		- Manually configerd
+		- MAC Addresses are given specific IP Addresses
+		- AKA static DHCP Assingment, or DHCP address allocation
+	- DHCP leases
+		- IP assingments are temporary
+		- Allocation
+			- Amount of time a lease lasts for
+		- Reallocation
+			- Leases can be renewed after a device reconnects or reboots
+		- Systems can manually relases their ip address when leaving the network
+		- T1 timer
+			- Checks in w/ DHCP server half way through lease.
+		- T2 timer
+			- If T1 timer check fails an attempt is made again at 7/8ths of lease time
+
+### 2.6.2 VLANs and VPNs
+	- LAN
+		- Local Area Network
+		- Group of devices in the same broadcast domain
+	- Virtual LAN (VLAN)
+		- Logicly specific interfaces are for specific networks on a switch
+		- Grouping devices in same broadcast domain
+		- Spread them logically on one switch instead of physically across multiplu network devices
+	- VPN
+		- Vurtual Private Network
+		- Encrypted data traversing a public network
+		- Concentrator
+			- encyption/decription done by this device
+			- Often integrated into a firewall
+		- Many deployment options
+			- Can have specialized hardware
+			- Software based options exist
+		- Client software is sometimes built into the OS
+		- Client-to-site VPN
+			- On-demand access from a remote device
+				- Software connects to a VPN concentrator
+				- Uses encrypted tunnels
+			- Some software can be configured as always on
+
+### 2.7 Internet Connection Types
