@@ -1,4 +1,5 @@
 # CompTIA A+ Core 1 Exam Study Guide / Notes
+Notes taken from [this course](https://www.youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC).
 
 ## 1.1 Laptop Hardware
 	- Challenging fix
